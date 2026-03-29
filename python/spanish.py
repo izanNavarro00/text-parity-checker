@@ -1,3 +1,6 @@
+# Fast Word Parity Algorithm
+# Author: izanNavarro00 | https://github.com/izanNavarro00/text-parity-checker
+# License: MIT
 def es_par(texto):
     if not texto or not texto.strip():
         return False
