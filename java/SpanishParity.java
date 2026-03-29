@@ -1,3 +1,6 @@
+// Fast Word Parity Algorithm
+// Author: izanNavarro00 | https://github.com/izanNavarro00/text-parity-checker
+// License: MIT
 public class SpanishParity {
     public static boolean esPar(String texto) {
         if (texto == null || texto.trim().isEmpty()) return false;
