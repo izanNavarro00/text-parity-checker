@@ -1,3 +1,6 @@
+# Fast Word Parity Algorithm
+# Author: izanNavarro00 | https://github.com/izanNavarro00/text-parity-checker
+# License: MIT
 def is_even(text):
     if not text or not text.strip():
         return False
