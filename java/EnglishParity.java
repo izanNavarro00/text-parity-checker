@@ -1,3 +1,6 @@
+// Fast Word Parity Algorithm
+// Author: izanNavarro00 | https://github.com/izanNavarro00/text-parity-checker
+// License: MIT
 public class EnglishParity {
     public static boolean isEven(String text) {
         if (text == null || text.trim().isEmpty()) return false;
