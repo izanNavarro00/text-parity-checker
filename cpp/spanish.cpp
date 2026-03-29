@@ -1,3 +1,6 @@
+// Fast Word Parity Algorithm
+// Author: izanNavarro00 | https://github.com/izanNavarro00/text-parity-checker
+// License: MIT
 #include <iostream>
 #include <vector>
 #include <string>
